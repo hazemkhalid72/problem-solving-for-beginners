@@ -6,5 +6,5 @@ function reverseNumber(x){
             .map((ele) => Number(ele))
             .reverse()
 }
-console.log(reverseNumber(234897))
+console.log(reverseNumber(234897325))
 
