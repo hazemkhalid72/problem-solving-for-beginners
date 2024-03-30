@@ -44,7 +44,7 @@ function calc(arr){
     let newArray = fillteringArray.reduce((acc,current) => acc+ current)
     console.log(newArray);
 }
-calc([1,2,3,4,5,6,7,8,9])
+calc([1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 9])
 
 
 // // another solution
