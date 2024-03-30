@@ -8,7 +8,7 @@ function repeatStr(str , num){
     }
     return newStr;
 }
-console.log(repeatStr("hello" , 10))
+console.log(repeatStr( "hello" , 10 ))
 
 
 // // another solution
@@ -19,4 +19,4 @@ function repeatStr( str , num){
     newStr+=str.repeat(num)
     return newStr;
 }
-console.log(repeatStr("i" , 6))
+console.log(repeatStr( "i" , 6 ))
