@@ -12,14 +12,14 @@ console.log(`${even}`)
 calc1([-1,-23,3,-2,-1,34])
 
 
-// another solution
+// another solution 
 
 
 function calc2(arr){
 let even = 0 ;  
 return arr.map((ele) => ele > 0  ? console.log(even += ele) : console.log(even))
 }
-calc2([-1,23,3,-2,-1,34])
+calc2([-1 , 23 , 3 , -2 , -1 , 34 ])
 
 // // another solution
 
