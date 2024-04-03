@@ -41,4 +41,4 @@ function countPositvesSumNegatives(input){
     return [positiveArray,negativeNumber]
 }
 
-console.log(countPositvesSumNegatives([1,2,3,-1,-2,-3]))
+console.log(countPositvesSumNegatives([1,2,3,-1,-2,-3,-2]))
